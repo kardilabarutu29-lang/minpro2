@@ -1,5 +1,12 @@
 # minpro2
 
+NAMA : KARDILA VARANI BARUTU
+
+NIM  : 2509116009
+
+PRODI: SISTEM INFORMASI A
+
+
 *FLOWCHART*
 ![WhatsApp Image 2025-09-28 at 22 58 28_86c44c21](https://github.com/user-attachments/assets/d1d45ed1-7a20-464b-845f-83eb578fddf8)
 
